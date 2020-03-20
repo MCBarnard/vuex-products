@@ -1,5 +1,15 @@
 # vuex-products
 Using different states of vuex, understanding Getters, Mutations, Actions and mapping the setters and actions
 
-## Start this locally
-Clone the repo, inside the root folder run npm run dev and it will spin up a localhost
+## Build Setup
+
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+```
